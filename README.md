@@ -1,6 +1,7 @@
 # Rproject
 
-To load app on docker:
+To load app on docker use command:
+
 
 docker pull tkaradimos/rproject:latest
 
